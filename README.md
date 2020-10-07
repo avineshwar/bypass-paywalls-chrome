@@ -7,20 +7,21 @@
 *Bypass Paywalls is a web browser extension to help bypass paywalls for selected sites.*
 
 ### Installation Instructions
-**Google Chrome**
+**Google Chrome** (Custom sites supported)
 1. Download this repo as a [ZIP file from GitHub](https://github.com/iamadamdev/bypass-paywalls-chrome/archive/master.zip).
 1. Unzip the file and you should have a folder named `bypass-paywalls-chrome-master`.
 1. In Chrome go to the extensions page (`chrome://extensions`).
 1. Enable Developer Mode.
 1. Drag the `bypass-paywalls-chrome-master` folder anywhere on the page to import it (do not delete the folder afterwards).
 
-**Mozilla Firefox**
-* [Download and install the latest version](https://github.com/iamadamdev/bypass-paywalls-chrome/releases/download/v1.7.2/bypass-paywalls-firefox.xpi)
+**Mozilla Firefox** (Custom sites not supported)
+* [Download and install the latest version](https://github.com/iamadamdev/bypass-paywalls-chrome/releases/latest/download/bypass-paywalls-firefox.xpi)
 
 **Notes**
-* Every time you open Chrome it may warn you about running extensions in developer mode, just click 🗙 to keep the extension enabled.
+* Every time you open Chrome it may warn you about running extensions in developer mode, just click &#10005; to keep the extension enabled.
 * You will be logged out for any site you have checked.
 * This extension works best alongside the adblocker uBlock Origin.
+* On the Firefox version automatic updates are enabled.
 
 ### Bypass the following sites' paywalls with this extension:
 
@@ -31,6 +32,7 @@
 [Barron's](https://www.barrons.com)\
 [Bloomberg Quint](https://www.bloombergquint.com)\
 [Bloomberg](https://www.bloomberg.com)\
+[Brisbane Times](https://www.brisbanetimes.com.au)\
 [Business Insider](https://www.businessinsider.com)\
 [Caixin](https://www.caixinglobal.com)\
 [Central Western Daily](https://www.centralwesterndaily.com.au)\
@@ -44,18 +46,24 @@
 [De Volkskrant](https://www.volkskrant.nl)\
 [DeMorgen](https://www.demorgen.be)\
 [Denver Post](https://www.denverpost.com)\
+[Diario Financiero](https://www.df.cl)\
+[Domani](https://www.editorialedomani.it/)\
 [Dynamed Plus](https://www.dynamed.com)\
 [Eindhovens Dagblad](https://www.ed.nl)\
+[El Mercurio](https://www.elmercurio.com)\
 [El Pais](https://www.elpais.com/)\
 [Encyclopedia Britannica](https://www.britannica.com)\
+[Estadão](https://www.estadao.com.br)\
 [Examiner](https://www.examiner.com.au)\
 [Financial News](https://www.fnlondon.com)\
+[Financial Post](https://www.financialpost.com)\
 [Financial Times](https://www.ft.com)\
 [First Things](https://www.firstthings.com)\
 [Foreign Policy](https://www.foreignpolicy.com)\
 [Fortune](https://www.fortune.com)\
 [Genomeweb](https://www.genomeweb.com)\
 [Glassdoor](https://www.glassdoor.com)\
+[Globes](https://www.globes.co.il)\
 [Haaretz.co.il](https://www.haaretz.co.il)\
 [Haaretz.com](https://www.haaretz.com)\
 [Handelsblatt](https://www.handelsblatt.com)\
@@ -64,9 +72,12 @@
 [Harvard Business Review](https://www.hbr.org)\
 [Herald Sun](https://www.heraldsun.com.au)\
 [Het Financieel Dagblad](https://fd.nl)\
+[History Extra](https://www.historyextra.com)\
+[Humo](https://www.humo.be)\
 [Il Manifesto](https://www.ilmanifesto.it)\
 [Inc.com](https://www.inc.com)\
-[Investors Chronicle](https://www.investorschronicle.co.uk)\
+[Interest.co.nz](https://www.interest.co.nz)\
+[Investors Chronicle](https://www.investorschronicle.co.uk)
 [L'Écho](https://www.lecho.be)\
 [L.A. Business Journal](https://labusinessjournal.com)\
 [La Nación](https://www.lanacion.com.ar)\
@@ -82,6 +93,7 @@
 [MIT Sloan Management Review](https://sloanreview.mit.edu)\
 [MIT Technology Review](https://www.technologyreview.com)\
 [Medium](https://www.medium.com)\
+[Medscape](https://www.medscape.com)\
 [Mexicon News Daily](https://mexiconewsdaily.com)\
 [Mountain View Voice](https://www.mv-voice.com)\
 [NRC Handelsblad](https://www.nrc.nl)\
@@ -97,12 +109,15 @@
 [Parool](https://www.parool.nl)\
 [Quartz](https://qz.com)\
 [Quora](https://www.quora.com)\
-[SOFREP](https://sofrep.com)\
+[Republic.ru](https://republic.ru)\
 [San Diego Union Tribune](https://www.sandiegouniontribune.com)\
 [San Francisco Chronicle](https://www.sfchronicle.com)\
 [Scientific American](https://www.scientificamerican.com)\
 [Seeking Alpha](https://seekingalpha.com)\
+[SOFREP](https://sofrep.com)\
 [Statista](https://www.statista.com)\
+[Star Tribune](https://www.startribune.com)\
+[Stuff](https://www.stuff.co.nz)\
 [SunSentinel](https://www.sun-sentinel.com)\
 [Tech in Asia](https://www.techinasia.com)\
 [Telegraaf](https://www.telegraaf.nl)\
@@ -110,8 +125,6 @@
 [The Advocate](https://www.theadvocate.com.au)\
 [The Age](https://www.theage.com.au)\
 [The American Interest](https://www.the-american-interest.com)\
-[The Athletic](https://www.theathletic.com)\
-[The Athletic UK](https://www.theathletic.co.uk)\
 [The Atlantic](https://www.theatlantic.com)\
 [The Australian Financial Review](https://www.afr.com)\
 [The Australian](https://www.theaustralian.com.au)\
@@ -132,6 +145,7 @@
 [The Mercury Tasmania](https://www.themercury.com.au)\
 [The Morning Call](https://www.mcall.com)\
 [The Nation](https://www.thenation.com)\
+[The National](https://www.thenational.scot)\
 [The New Statesman](https://www.newstatesman.com)\
 [The New York Times](https://www.nytimes.com)\
 [The New Yorker](https://www.newyorker.com)\
@@ -155,7 +169,8 @@
 [Vanity Fair](https://www.vanityfair.com)\
 [Vrij Nederland](https://www.vn.nl)\
 [Winston-Salem Journal](https://journalnow.com)\
-[Wired](https://www.wired.com)
+[Wired](https://www.wired.com)\
+[World Politics Review](https://www.worldpoliticsreview.com)
 
 ### Sites with limited number of free articles
 The free article limit can normally be bypassed by removing cookies for the site.*
@@ -168,15 +183,15 @@ When coming across a paywall click the cookie icon to remove the cookies then re
 _*May not always succeed_
 
 ### New site requests
-Only large or major sites will be considered.
-Usually premium articles cannot be bypassed as they are behind a hard paywall.
+Only large or major sites will be considered. Usually premium articles cannot be bypassed as they are behind a hard paywall.
 
-1. Install the uBlock Origin extension if it hasn't been installed already. See if you are still getting a paywall. If so, continue to the next step.
-2. First search [Issues](https://github.com/iamadamdev/bypass-paywalls-chrome/issues) to see if the site has been requested already.
-3. Visit an article on the site you want to bypass the paywall for and copy the article title.
-4. Open up a new incognito window (Ctrl+Shift+N on Chrome) or Private window (Ctrl+Shift+P on Firefox), and paste the article title into Google.
-5. Click on the same article from the Google search results page.
-6. If it loads without a paywall you can [submit a request](https://github.com/iamadamdev/bypass-paywalls-chrome/issues/new/choose) and replace the entire template text with the word "Confirmed". Otherwise please do not submit an issue as this extension cannot bypass it either.
+1. Install the uBlock Origin extension if it hasn't been installed already. See if you are still getting a paywall.
+2. Check if using Cookie Remover ([Google Chrome version](https://chrome.google.com/webstore/detail/cookie-remover/kcgpggonjhmeaejebeoeomdlohicfhce) or [Mozilla Firefox version](https://addons.mozilla.org/en-US/firefox/addon/cookie-remover/)) can bypass the paywall. If not, continue to the next step.
+3. First search [Issues](https://github.com/iamadamdev/bypass-paywalls-chrome/issues) to see if the site has been requested already.
+4. Visit an article on the site you want to bypass the paywall for and copy the article title.
+5. Open up a new incognito window (Ctrl+Shift+N on Chrome) or Private window (Ctrl+Shift+P on Firefox), and paste the article title into Google.
+6. Click on the same article from the Google search results page.
+7. If it loads without a paywall you can [submit a request](https://github.com/iamadamdev/bypass-paywalls-chrome/issues/new/choose) and replace the entire template text with the word "Confirmed". Otherwise please do not submit an issue as this extension cannot bypass it either.
 
 ### Troubleshooting
 * This extension works best alongside uBlock Origin [for Google Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) or [for Mozilla Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/).
@@ -194,4 +209,5 @@ PRs are welcome.
 4. Use [JavaScript Semi-Standard Style linter](https://github.com/standard/semistandard). Don't need to follow it exactly. There will be some errors (e.g., do not use it on `sites.js`).
 
 ### Show your support
+* Follow me on Twitter [@iamadamdev](https://twitter.com/iamadamdev) for updates.
 * I am not asking for donations or anything like that, all I ask is that you star this repo.
